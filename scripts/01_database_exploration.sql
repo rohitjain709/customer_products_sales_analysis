@@ -2,7 +2,7 @@
 ===============================================================================
 Database Exploration
 ===============================================================================
-Purpose:
+Purpose :
     - To explore the structure of the database, including the list of tables and their schemas.
     - To inspect the columns and metadata for specific tables.
 
